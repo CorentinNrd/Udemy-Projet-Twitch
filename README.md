@@ -1,4 +1,4 @@
-![react-image](https://www.troispointzero.fr/content/uploads/2019/04/react-javascript-logo-1.png)
+![react-image](https://miro.medium.com/max/4080/1*pqWCHRZ5pzADJ7DTFPwWqA.png)
 
 ## Ce projet à été réalisé dans un cadre personnel, pour me familiariser avec ReactJS et les calls d'API.
 
