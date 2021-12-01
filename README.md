@@ -1,4 +1,6 @@
-# Bonjour, aujourd'hui j'ai réalisé une formation Udemy pour me permettre d'apprendre à utiliser ReactJS avec les API, vous avez ci-dessus toute les commande pour utiliser le projet.
+## Ce projet à été réalisé dans un cadre personnel, pour me familiariser avec ReactJS et les calls d'API.
+
+### Bonjour, aujourd'hui j'ai réalisé une formation Udemy pour me permettre d'apprendre à utiliser ReactJS avec les API, vous avez ci-dessus toute les commande pour utiliser le projet.
 
 ### https://dev.twitch.tv/ ceci est le lien de l'API twitch sur laquelle vous pouvez créer votre application pour votre CLIENT-ID ainsi que votre JETON
 
